@@ -1,0 +1,2 @@
+# isthisbandgenre
+Silly project
