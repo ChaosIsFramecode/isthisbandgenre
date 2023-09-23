@@ -1,0 +1,4 @@
+[
+    {"name": "example", "isGenre": true, "funMsg": "fun", "also": "also1"},
+    {"name": "example2", "isGenre": false, "funMsg": "fun2", "also": "also2"}
+]
